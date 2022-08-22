@@ -16,4 +16,7 @@ Este projeto foi realizado durante a mentoria do Pedro Marins e Henrique de Andr
   Instalação da tecnologia AngularJS
   Construção do cartão com sass
 
+## Terça-Feira
 
+- Trabalhando com json-serve
+- Inserindo os países
