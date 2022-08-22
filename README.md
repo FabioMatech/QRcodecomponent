@@ -21,4 +21,18 @@ Este projeto foi realizado durante a mentoria do Pedro Marins e Henrique de Andr
 - Trabalhando com json-serve
 - Inserindo os países
 
+## Quarta-Feira
+
+- Utilização do json-server com informações sobre os paises e suas bandeiras.
+- Método post.
+
+## Quinta-Feira
+
+- Refatorando o código.
+
+## Sexta-Feira
+
+- Fechamento do projeto.
+- Organização do readme.
+
 # Em construção
