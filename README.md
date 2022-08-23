@@ -21,6 +21,10 @@ Este projeto foi realizado durante a mentoria do Pedro Marins e Henrique de Andr
 - Trabalhando com json-serve
 - Inserindo os países
 
+### Dificuldades
+
+- Entender e consumir dados do json-serve.
+
 ## Quarta-Feira
 
 - Utilização do json-server com informações sobre os paises e suas bandeiras.
