@@ -33,10 +33,7 @@ Este projeto foi realizado durante a mentoria do Pedro Marins e Henrique de Andr
 ## Quinta-Feira
 
 - Refatorando o código.
+- Entregando o projeto.
 
-## Sexta-Feira
 
-- Fechamento do projeto.
-- Organização do readme.
-
-# Em construção
+## Em construção
