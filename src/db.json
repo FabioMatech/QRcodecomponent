@@ -1,0 +1,19 @@
+{
+  "paises": [
+    { "id": 1,
+      "pais": "Catar",
+      "continente": "Ásia",
+      "populacao":"4.561 bjilhões (2018)",
+      "titulos":0,
+      "jogo1": "Catar vs Equador",
+      "Data1" : "20/11/2022",
+      "Horario1:": "13:00h",
+      "jogo2": "Catar vs Senegal",
+      "Data2" : "25/11/2022",
+      "Horario2:": "10:00h",
+      "jogo3": "Catar vs Holanda",
+      "Data3" : "29/11/2022",
+      "Horario3:": "12:00h"
+     }
+  ]
+}
