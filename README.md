@@ -1,6 +1,6 @@
 # ÁLBUM COM OS PAÍSES DA COPA DO MUNDO 2022
 
-Este projeto foi realizado durante a mentoria do Pedro Marins e Henrique de Andrade.
+Este projeto foi realizado durante a mentoria conquiste sua vaga de Pedro Marins e Henrique de Andrade.
 
 ## Tecnologias uitlizadas
 
@@ -9,31 +9,14 @@ Este projeto foi realizado durante a mentoria do Pedro Marins e Henrique de Andr
 - SASS
 - javascript
 
-## Preparação da semana de trabalho
+## Sobre o projeto.
+Este projeto 
+teve como intuito aprimorar o uso do framework AngularJS, onde foram criados as cards com os jogos da primeira fase da copa de 2022.
 
-## Segunda-Feira
+## Dificuldades Encontradas
+A maior dificuldade foi registrar os jogos que cada time ira ter nesta primeira fase.
 
-- Instalação da tecnologia AngularJS
-- Construção do cartão com sass
-
-## Terça-Feira
-
-- Trabalhando com json-serve
-- Inserindo os países
-
-### Dificuldades
-
-- Entender e consumir dados do json-serve.
-
-## Quarta-Feira
-
-- Utilização do json-server com informações sobre os paises e suas bandeiras.
-- Método post.
-
-## Quinta-Feira
-
-- Refatorando o código.
-- Entregando o projeto.
+## Aprendizados
+A instalação de um projeto com angular e o uso de seus componentes.
 
 
-## Em construção
